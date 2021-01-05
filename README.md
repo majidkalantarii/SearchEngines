@@ -70,21 +70,3 @@ to enhance research and analyse changes around DNS for better insights - https:/
 * virustotal: virustotal.com domain search
 
 * yahoo: Yahoo search engine
-
-
-Active:
--------
-* DNS brute force: dictionary brute force enumeration
-* Screenshots: Take screenshots of subdomains that were found
-
-Modules that require an API key:
---------------------------------
-* bing
-* github
-* hunter - limited to 10 on the free plan so you will ned to do -l 10 switch
-* intelx
-* pentesttools
-* projecdiscovery - invite only for now
-* securityTrails
-* shodan
-* spyse - need to have a paid account be able to use the api now
